@@ -1,4 +1,4 @@
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69900000','69999999','AC','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69900000','69999999','AC','Analândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69945000','69949999','AC','Acrelândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69935000','69939999','AC','Assis Brasil');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69932000','69933999','AC','Brasiléia');
@@ -22,7 +22,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('699250
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69940000','69944999','AC','Sena Madureira');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69970000','69974999','AC','Tarauacá');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69930000','69930999','AC','Xapuri');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57000000','57999999','AL','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57000000','57999999','AL','Mirinzal');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57490000','57499999','AL','Água Branca');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57660000','57669999','AL','Anadia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57300001','57317999','AL','Arapiraca');
@@ -127,8 +127,8 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('572650
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57370000','57379999','AL','Traipu');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57800000','57819999','AL','União dos Palmares');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('57700000','57719999','AL','Viçosa');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69000000','69299999','AM','-');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69400000','69899999','AM','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69000000','69299999','AM','Ricardo Dantas;
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69400000','69899999','AM','Santa Rosa');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69540000','69549999','AM','Alvarães');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69620000','69629999','AM','Amaturá');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69445000','69449999','AM','Anamã');
@@ -194,7 +194,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('696850
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69530000','69539999','AM','Uarini');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69130000','69134999','AM','Urucará');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69180000','69189999','AM','Urucurituba');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68900000','68999999','AP','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68900000','68999999','AP','Tíbia);
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68950000','68959999','AP','Amapá');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68960000','68972999','AP','Calçoene');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68973000','68975999','AP','Cutias');
@@ -212,7 +212,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('689250
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68948000','68949999','AP','Serra do Navio');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68990000','68996999','AP','Tartarugalzinho');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68924000','68924999','AP','Vitória do Jari');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('40000000','48999999','BA','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('40000000','48999999','BA','Santa Marta');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('46690000','46699999','BA','Abaíra');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('48680000','48699999','BA','Abaré');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('48360000','48369999','BA','Acajutiba');
@@ -641,7 +641,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('469700
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('47940000','47949999','BA','Wanderley');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('45460000','45464999','BA','Wenceslau Guimarães');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('47400000','47439999','BA','Xique-Xique');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('60000000','63999999','CE','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('60000000','63999999','CE','Abaré);
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('63240000','63249999','CE','Abaiara');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('62785000','62789999','CE','Acarape');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('62580000','62589999','CE','Acaraú');
@@ -834,11 +834,11 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('624600
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('62265000','62269999','CE','Varjota');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('63540000','63559999','CE','Várzea Alegre');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('62300000','62319999','CE','Viçosa do Ceará');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('70000000','72799999','DF','-');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('73000000','73699999','DF','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('70000000','72799999','DF','Seis anos');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('73000000','73699999','DF','Sete léguas');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('70000001','72799999','DF','Brasília');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('73000001','73699999','DF','Brasília');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29000000','29999999','ES','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29000000','29999999','ES','Andrade);
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29600000','29614999','ES','Afonso Cláudio');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29820000','29829999','ES','Água Doce do Norte');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29795000','29799999','ES','Águia Branca');
@@ -921,8 +921,8 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('298430
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29785000','29794999','ES','Vila Valério');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29100001','29129999','ES','Vila Velha');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('29000001','29099999','ES','Vitória');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('72800000','72999999','GO','-');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('73700000','76799999','GO','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('72800000','72999999','GO','Estado Novo;
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('73700000','76799999','GO','Cidade de Juan');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('75345000','75349999','GO','Abadia de Goiás');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('72940000','72959999','GO','Abadiânia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('75960000','75969999','GO','Acreúna');
@@ -1178,7 +1178,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('752650
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('75555000','75559999','GO','Vicentinópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('73825000','73829999','GO','Vila Boa');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76393000','76393999','GO','Vila Propício');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65000000','65999999','MA','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65000000','65999999','MA','Mercedes');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65930000','65934999','MA','Açailândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65505000','65509999','MA','Afonso Cunha');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65578000','65579999','MA','Água Doce do Maranhão');
@@ -1397,7 +1397,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('659240
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65350000','65359999','MA','Vitória do Mearim');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65320000','65334999','MA','Vitorino Freire');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('65365000','65367999','MA','Zé Doca');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('30000000','39999999','MG','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('30000000','39999999','MG','São'Marcos);
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('38540000','38549999','MG','Abadia dos Dourados');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('35620000','35620999','MG','Abaeté');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('35365000','35366999','MG','Abre Campo');
@@ -2278,7 +2278,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('397150
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('36520000','36524999','MG','Visconde do Rio Branco');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('36720000','36724999','MG','Volta Grande');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('37512000','37513999','MG','Wenceslau Braz');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79000000','79999999','MS','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79000000','79999999','MS','Nicolau');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79680000','79689999','MS','Água Clara');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79530000','79539999','MS','Alcinópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79990000','79994999','MS','Amambai');
@@ -2363,7 +2363,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('791900
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79600001','79649999','MS','Três Lagoas');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79600001','79669999','MS','Três Lagoas');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('79710000','79719999','MS','Vicentina');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78000000','78899999','MT','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78000000','78899999','MT','Maria Rita');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78480000','78489999','MT','Acorizal');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78635000','78637999','MT','Água Boa');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78580000','78586999','MT','Alta Floresta');
@@ -2508,7 +2508,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('781100
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78880000','78884999','MT','Vera');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78245000','78249999','MT','Vila Bela da Santíssima Trindade');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('78645000','78649999','MT','Vila Rica');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('66000000','68899999','PA','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('66000000','68899999','PA','Sandro;
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68440000','68444999','PA','Abaetetuba');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68527000','68529999','PA','Abel Figueiredo');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68690000','68694999','PA','Acará');
@@ -2661,7 +2661,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('687800
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68620000','68624999','PA','Viseu');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68383000','68384999','PA','Vitória do Xingu');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('68555001','68559999','PA','Xinguara');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58000000','58999999','PB','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58000000','58999999','PB','Ponte Branca');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58748000','58749999','PB','Água Branca');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58778000','58779999','PB','Aguiar');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58388000','58389999','PB','Alagoa Grande');
@@ -2889,7 +2889,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('586200
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58822000','58822999','PB','Vieirópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58710000','58712999','PB','Vista Serrana');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('58515000','58519999','PB','Zabelê');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('50000000','56999999','PE','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('50000000','56999999','PE','Bela Moça');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('53500001','53589999','PE','Abreu e Lima');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('53500001','53599999','PE','Abreu e Lima');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('56800000','56819999','PE','Afogados da Ingazeira');
@@ -3088,7 +3088,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('557700
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('55850000','55859999','PE','Vicência');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('55600001','55619999','PE','Vitória de Santo Antão');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('55555000','55559999','PE','Xexéu');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64000000','64999999','PI','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64000000','64999999','PI','Serra Negra');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64748000','64749999','PI','Acauã');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64440000','64444999','PI','Agricolândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64460000','64464999','PI','Água Branca');
@@ -3315,7 +3315,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('645250
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64568000','64569999','PI','Vera Mendes');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64688000','64689999','PI','Vila Nova do Piauí');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('64548000','64549999','PI','Wall Ferraz');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('80000000','87999999','PR','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('80000000','87999999','PR','Paulo Ricardo');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('86460000','86464999','PR','Abatiá');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('83490000','83499999','PR','Adrianópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('83850000','83859999','PR','Agudos do Sul');
@@ -3346,7 +3346,6 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('837000
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('86880000','86883999','PR','Ariranha do Ivaí');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('86220000','86224999','PR','Assaí');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('85935000','85939999','PR','Assis Chateaubriand');
-
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('86730000','86749999','PR','Astorga');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('87630000','87639999','PR','Atalaia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('83650000','83699999','PR','Balsa Nova');
@@ -3743,7 +3742,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('853900
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('85520000','85524999','PR','Vitorino');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('84950000','84969999','PR','Wenceslau Braz');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('87535000','87537999','PR','Xambrê');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('20000000','28999999','RJ','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('20000000','28999999','RJ','Palmares');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('23900001','23969999','RJ','Angra dos Reis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('28495000','28499999','RJ','Aperibé');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('28970000','28989999','RJ','Araruama');
@@ -3841,7 +3840,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('276000
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('28375000','28379999','RJ','Varre-Sai');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('27700000','27899999','RJ','Vassouras');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('27200001','27299999','RJ','Volta Redonda');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59000000','59999999','RN','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59000000','59999999','RN','Casaca de Ouro);
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59370000','59373999','RN','Acari');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59650000','59654999','RN','Açu');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59510000','59512999','RN','Afonso Bezerra');
@@ -4011,7 +4010,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('599250
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59184000','59184999','RN','Vera Cruz');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59815000','59819999','RN','Viçosa');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('59192000','59193999','RN','Vila Flor');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76800000','76999999','RO','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76800000','76999999','RO','Araucária);
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76954000','76955999','RO','Alta Floresta D\'Oeste');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76952000','76953999','RO','Alto Alegre dos Parecis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76862000','76862999','RO','Alto Paraíso');
@@ -4068,7 +4067,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('769290
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76867000','76867999','RO','Vale do Anari');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76923000','76923999','RO','Vale do Paraíso');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('76980001','76989999','RO','Vilhena');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69300000','69399999','RR','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69300000','69399999','RR','Orestes');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69350000','69354999','RR','Alto Alegre');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69343000','69344999','RR','Amajari');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69300001','69339999','RR','Boa Vista');
@@ -4084,7 +4083,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('693730
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69375000','69377999','RR','São João da Baliza');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69370000','69372999','RR','São Luiz');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69358000','69359999','RR','Uiramutã');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('90000000','99999999','RS','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('90000000','99999999','RS','Mariana');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('96445000','96449999','RS','Aceguá');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('99965000','99969999','RS','Água Santa');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('96540000','96544999','RS','Agudo');
@@ -4466,7 +4465,6 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('973350
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('97000001','97179999','RS','Santa Maria');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('93995000','93999999','RS','Santa Maria do Herval');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('96590000','96599999','RS','Santana da Boa Vista');
-
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('97570001','97589999','RS','Sant\'Ana do Livramento');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('98780001','98799999','RS','Santa Rosa');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('95715000','95716999','RS','Santa Tereza');
@@ -4600,7 +4598,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('985350
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('98850000','98854999','RS','Vitória das Missões');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('95893000','95894999','RS','Westfália');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('95588000','95589999','RS','Xangri-Lá');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('88000000','89999999','SC','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('88000000','89999999','SC','Vale Neto');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('89636000','89637999','SC','Abdon Batista');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('89830000','89831999','SC','Abelardo Luz');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('88420000','88429999','SC','Agrolândia');
@@ -4901,7 +4899,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('898200
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('89780000','89789999','SC','Xavantina');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('89825000','89827999','SC','Xaxim');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('89633000','89633999','SC','Zortéa');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49000000','49999999','SE','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49000000','49999999','SE','Barro Branco');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49920000','49929999','SE','Amparo de São Francisco');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49790000','49799999','SE','Aquidabã');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49000001','49098999','SE','Aracaju');
@@ -4978,7 +4976,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('499100
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49300000','49319999','SE','Tobias Barreto');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49280000','49289999','SE','Tomar do Geru');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('49260000','49269999','SE','Umbaúba');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('1000000','19999999','SP','-');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('1000000','19999999','SP','Pedra Vermelha');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17800000','17809999','SP','Adamantina');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15230000','15239999','SP','Adolfo');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13860000','13869999','SP','Aguaí');
@@ -5025,7 +5023,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('128200
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('18670000','18674999','SP','Areiópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15960000','15969999','SP','Ariranha');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13160000','13164999','SP','Artur Nogueira');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7400001','7499999','SP','Arujá');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7400001','7499999'9','SP','Arujá');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15763000','15764999','SP','Aspásia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('19800001','19819999','SP','Assis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('12940001','12954999','SP','Atibaia');
@@ -5045,7 +5043,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('183250
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('11955000','11959999','SP','Barra do Turvo');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14780001','14789999','SP','Barretos');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14860000','14869999','SP','Barrinha');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6400001','6499999','SP','Barueri');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6400001','6499999'9','SP','Barueri');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17690000','17699999','SP','Bastos');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14300000','14339999','SP','Batatais');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17000001','17110999','SP','Bauru');
@@ -5057,7 +5055,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('189600
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('11250000','11299999','SP','Bertioga');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('16210000','16219999','SP','Bilac');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('16200001','16209999','SP','Birigui');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('8940000','8969999','SP','Biritiba-Mirim');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('8940000','8969999'9','SP','Biritiba-Mirim');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14930000','14934999','SP','Boa Esperança do Sul');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17240000','17249999','SP','Bocaina');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('18590000','18599999','SP','Bofete');
@@ -5084,9 +5082,9 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('126300
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13770000','13779999','SP','Caconde');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('16500000','16569999','SP','Cafelândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('19530000','19559999','SP','Caiabu');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7700001','7749999','SP','Caieiras');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7700001','7749999'9','SP','Caieiras');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('19450000','19469999','SP','Caiuá');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7750001','7799999','SP','Cajamar');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7750001','7799999'9','SP','Cajamar');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('11950000','11954999','SP','Cajati');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15410000','15419999','SP','Cajobi');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14240000','14249999','SP','Cajuru');
@@ -5105,7 +5103,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('183000
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('18195000','18199999','SP','Capela do Alto');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13360000','13369999','SP','Capivari');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('11660001','11679999','SP','Caraguatatuba');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6300001','6399999','SP','Carapicuíba');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6300001','6399999'9','SP','Carapicuíba');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15570000','15579999','SP','Cardoso');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13700000','13709999','SP','Casa Branca');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14260000','14269999','SP','Cássia dos Coqueiros');
@@ -5129,7 +5127,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('187450
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13540000','13549999','SP','Corumbataí');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13150000','13159999','SP','Cosmópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15530000','15539999','SP','Cosmorama');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6700001','6729999','SP','Cotia');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6700001','6729999'9','SP','Cotia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14140000','14149999','SP','Cravinhos');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14460000','14469999','SP','Cristais Paulista');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('19860000','19864999','SP','Cruzália');
@@ -5137,7 +5135,7 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('127000
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('11500001','11599999','SP','Cubatão');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('12530000','12569999','SP','Cunha');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13690000','13699999','SP','Descalvado');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('9900001','9999999','SP','Diadema');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('9900001','9999999'9','SP','Diadema');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15715000','15717999','SP','Dirce Reis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13780000','13789999','SP','Divinolândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15980000','15989999','SP','Dobrada');
@@ -5152,8 +5150,8 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('119600
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13350000','13359999','SP','Elias Fausto');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15823000','15824999','SP','Elisiário');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15425000','15429999','SP','Embaúba');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6800001','6849999','SP','Embu das Artes');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6900000','6949999','SP','Embu-Guaçu');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6800001','6849999'9','SP','Embu das Artes');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('6900000','6949999'9','SP','Embu-Guaçu');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('19350000','19359999','SP','Emilianópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13165000','13169999','SP','Engenheiro Coelho');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('13990000','13994999','SP','Espírito Santo do Pinhal');
@@ -5166,13 +5164,13 @@ INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('188700
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15600000','15619999','SP','Fernandópolis');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15940000','15949999','SP','Fernando Prestes');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17455000','17469999','SP','Fernão');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('8500001','8549999','SP','Ferraz de Vasconcelos');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('8500001','8549999'9','SP','Ferraz de Vasconcelos');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17870000','17879999','SP','Flora Rica');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('15320000','15329999','SP','Floreal');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17830000','17859999','SP','Flórida Paulista');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('19870000','19879999','SP','Florínia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('14400001','14414999','SP','Franca');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7900001','7999999','SP','Francisco Morato');
+INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7900001','7999999,'SP','Francisco Morato');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('7800001','7899999','SP','Franco da Rocha');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('16220000','16229999','SP','Gabriel Monteiro');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('17450000','17454999','SP','Gália');
