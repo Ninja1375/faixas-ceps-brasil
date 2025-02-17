@@ -1,9 +1,9 @@
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69900000','69999999','AC','-');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69945000','69949999','AC','Acrelândia');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69935000','69939999','AC','Assis Brasil');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69932000','69933999','AC','Brasiléia');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69926000','69926999','AC','Bujari');
-INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69931000','69931999','AC','Capixaba');
+('69945000','69949999','AC','Acrelândia');
+('69935000','69939999','AC','Assis Brasil');
+('69932000','69933999','AC','Brasiléia');
+('69926000','69926999','AC','Bujari');
+('69931000','69931999','AC','Capixaba');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69980000','69981999','AC','Cruzeiro do Sul');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69934000','69934999','AC','Epitaciolândia');
 INSERT INTO `faixas_cep` (`cep_inicio`, `cep_fim`,`uf`, `cidade`) values('69960000','69969999','AC','Feijó');
